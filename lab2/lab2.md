@@ -42,4 +42,4 @@ Start the client in a seperate terminal
 ./client localhost
 ```
 
-> Any into the client will be displayed at `STDOUT` of the server.
+> Any input to the client will be displayed at `STDOUT` of the server.
