@@ -1,6 +1,8 @@
-# Lab 2 Part-1
+# Lab 2
 
-## Follow the following instructions to run part1 of Lab2
+[Instructions](https://shashi-prabh.github.io/teaching/computer_networks_2022/lab1.pdf)
+
+## Follow the following instructions to finish part 1 of Lab2
 
 ### Step 1
 
