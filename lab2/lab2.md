@@ -4,7 +4,7 @@
 
 ### Step 1
 
-Copy over the files [`client.c`](./client.c) and [`server.c`](./server.c)
+Copy over the files [`client.c`](./part1/client.c) and [`server.c`](./part1/server.c)
 
 ### Step 2
 
