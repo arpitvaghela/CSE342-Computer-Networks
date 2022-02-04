@@ -8,8 +8,6 @@ Copy over the files [`client.c`](./part1/client.c) and [`server.c`](./part1/serv
 
 ### Step 2
 
-**Compile the files**
-
 Compiling client
 
 ```sh
